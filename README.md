@@ -19,9 +19,9 @@ cd $HOME/MX-Linux-Packager
 ```
 
 
-#### How to Boot ➤ [Real Mac from MX-Linux USB](https://github.com/chris1111/MX-Linux-Packager/files/7799808/Boot.Mac.MX-Linux.USB.pdf)
+#### How to Boot ➤ [Real Mac from MX-Linux USB](https://github.com/chris1111/MX-Linux-Packager/blob/main/PDF/Boot.Mac.MX-Linux.USB.pdf)
 
-#### How to Boot ➤ [Hackintosh (OpenCore) from MX-Linux USB](https://github.com/chris1111/MX-Linux-Packager/files/7799817/BootHack.pdf)
+#### How to Boot ➤ [Hackintosh (OpenCore) from MX-Linux USB](https://github.com/chris1111/MX-Linux-Packager/blob/main/PDF/Boot%20Hack.pdf)
 
 
 #### Usage and Build ⬇︎
