@@ -12,11 +12,11 @@
 ```bash
 git clone https://github.com/chris1111/MX-Linux-Packager.git
 cd $HOME/MX-Linux-Packager
+#### Build
+./MX-Linux-OS.sh
+
 ```
 
-#### Build
-```bash
-./MX-Linux-OS.sh
 
 #### Pics ⬇︎
 
