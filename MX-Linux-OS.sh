@@ -98,7 +98,10 @@ echo "`tput setaf 7``tput sgr0``tput bold``tput setaf 10`
 ************************************************
 Downloading Done
 Extracting image using unar"
-Sleep 3
+Sleep 2
+# create the base folder
+mkdir -p ./pkgbuild
+Sleep 1
 ./Extract/unar -r /Private/tmp/MX_x64.iso -o ./pkgbuild
 cp -rp ./Extract/.VolumeIcon.icns ./pkgbuild/MX_x64
 # Delete build if exist
