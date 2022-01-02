@@ -13,7 +13,7 @@ iconfile="/Private/tmp/AppIcon.icns"
 # Delete build if exist
 rm -rf ./Package
 rm -rf ./MX-Linux.pkg
-rm -rf ./pkgbuild/MX_x64
+rm -rf ./pkgbuild
 # Select USB
 response=$(osascript -e 'tell app "System Events" to display dialog "Select your USB key\n\nCancel for Exit" buttons {"Cancel","Select USB"} default button 2 with title "'"$apptitle"' '"$version"'" with icon POSIX file "'"$iconfile"'"  ')
 
