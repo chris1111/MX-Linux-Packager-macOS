@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<installer-script minSpecVersion="1.000000" authoringTool="com.MXLinux.Productbuild" authoringToolVersion="1.0" authoringToolBuild="100000">
+    <title>MX-Linux Package</title>
+    <options customize="never" allow-external-scripts="false"/>
+    <domains enable_anywhere="true" enable_localSystem="true"/>
+    <volume-check script="pm_volume_check();"/>
+    <script>function pm_volume_check() {
+  if(!(my.target.mountpoint != '/')) {
+    my.result.title = 'Failure';
+    my.result.message = 'You cannot install to your Main drive. Select USB install drive.';
+    my.result.type = 'Fatal';
+    return false;
+  }
+  return true;
+}
+</script> 
+    <background file="background.png" alignment="center" scaling="tofit"/>
+    <background-darkAqua file="background.png" alignment="center" scaling="tofit"/>
+    <welcome file="Welcome.rtf"/>
+    <readme file="Readme.rtf"/>
+    <license file="License.rtf"/>
+    <choices-outline>
+        <line choice="choice1"/>
+    </choices-outline>
+    <choice id="choice1" title="MX-linux Package">
+        <pkg-ref id="com.MXLinux.MX-Linux.pkg"/>
+    </choice>
+    <pkg-ref id="com.MXLinux.MX-Linux.pkg" installKBytes="4" version="1.0" auth="Root">#MX-Linux.pkg</pkg-ref>
+</installer-script>
