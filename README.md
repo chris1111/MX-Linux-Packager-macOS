@@ -8,11 +8,12 @@
 
 - [x] `Usage: Plug an USB minimum of 8 gig to your Mac or Hackintosh`
 
-#### Clone the repository
+#### Clone the repository and Build Package
 ```bash
 git clone https://github.com/chris1111/MX-Linux-Packager.git
+
 cd $HOME/MX-Linux-Packager
-#### Build
+
 ./MX-Linux-OS.sh
 
 ```
