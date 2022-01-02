@@ -28,6 +28,8 @@ cd $HOME/MX-Linux-Packager
 
 ![Screen Shot-2](https://user-images.githubusercontent.com/6248794/147888922-766c4818-a7cb-4198-a020-33e706d94fc5.png)
 
+![Screen Shot-5](https://user-images.githubusercontent.com/6248794/147890748-4eb06e25-9d8a-4134-a517-79f97e3375a9.png)
+
 ![Screen Shot-1](https://user-images.githubusercontent.com/6248794/147886293-0954564e-1f3a-431d-a614-32165d8eb6ce.png)
 
 ![Screen Shot-3](https://user-images.githubusercontent.com/6248794/147889203-5dc86d85-811e-4703-a3d6-436a08c459d3.png)
