@@ -18,6 +18,8 @@ cd $HOME/MX-Linux-Packager
 ```bash
 ./MX-Linux-OS.sh
 
+
+
 ![Screen Shot-2](https://user-images.githubusercontent.com/6248794/147888922-766c4818-a7cb-4198-a020-33e706d94fc5.png)
 
 ![Screen Shot-1](https://user-images.githubusercontent.com/6248794/147886293-0954564e-1f3a-431d-a614-32165d8eb6ce.png)
