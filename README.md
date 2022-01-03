@@ -2,6 +2,8 @@
 
 ### A macOS wrapper script to create MX-Linux.pkg to install MX-Linux-OS on USB drive.
 
+#### MX-Linux Licenses ➤ [See all Licenses](https://mxlinux.org/wiki/licenses/)
+
 - Build by [chris1111](https://github.com/chris1111/)
 - Credit: [MX-Linux](https://github.com/MX-Linux)
 - Credit: Extracting image ➤ [unar](https://github.com/ashang/unar)
