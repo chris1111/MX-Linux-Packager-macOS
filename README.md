@@ -10,9 +10,9 @@
 
 #### Clone the repository and Build Package
 ```bash
-git clone https://github.com/chris1111/MX-Linux-Packager.git
+git clone https://github.com/chris1111/MX-Linux-Packager-macOS.git
 
-cd $HOME/MX-Linux-Packager
+cd $HOME/MX-Linux-Packager-macOS
 
 ./MX-Linux-OS.sh
 
