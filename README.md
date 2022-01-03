@@ -1,4 +1,4 @@
-# MX-Linux Packager
+# MX-Linux Packager-macOS
 
 ### A macOS wrapper script to create MX-Linux.pkg to install MX-Linux-OS on USB drive.
 
