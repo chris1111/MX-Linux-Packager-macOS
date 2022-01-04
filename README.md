@@ -27,7 +27,9 @@ cd $HOME/MX-Linux-Packager-macOS
 
 
 #### Usage and Build ⬇︎
-
+<details> 
+  <summary>View Picture</summary>
+  
 ![Screen Shot 01](https://user-images.githubusercontent.com/6248794/147994596-be7f55bd-35ce-414d-81d0-4c2c6c9c8de9.png)
 
 ![Screen Shot 02](https://user-images.githubusercontent.com/6248794/147994755-faed0347-e1be-4c1e-9d1d-b082b1d15384.png)
@@ -41,4 +43,7 @@ cd $HOME/MX-Linux-Packager-macOS
 ![Screen Shot-3](https://user-images.githubusercontent.com/6248794/147889203-5dc86d85-811e-4703-a3d6-436a08c459d3.png)
 
 ![Screen Shot-4](https://user-images.githubusercontent.com/6248794/147889417-56c8e90c-4532-4a47-bb0a-3daefb60213c.png)
+  
+</details>
+
 
