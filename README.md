@@ -28,6 +28,10 @@ cd $HOME/MX-Linux-Packager-macOS
 
 #### Usage and Build ⬇︎
 
+![Screen Shot 01](https://user-images.githubusercontent.com/6248794/147994596-be7f55bd-35ce-414d-81d0-4c2c6c9c8de9.png)
+
+![Screen Shot 02](https://user-images.githubusercontent.com/6248794/147994598-b39c6dfc-4948-47fd-90c0-f0b213ed7f41.png)
+
 ![Screen Shot-2](https://user-images.githubusercontent.com/6248794/147888922-766c4818-a7cb-4198-a020-33e706d94fc5.png)
 
 ![Screen Shot-5](https://user-images.githubusercontent.com/6248794/147890748-4eb06e25-9d8a-4134-a517-79f97e3375a9.png)
