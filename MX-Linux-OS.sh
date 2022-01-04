@@ -115,15 +115,18 @@ echo "`tput setaf 7``tput sgr0``tput bold``tput setaf 10`
 ************************************************
 Create package with PkgBuild "
 Sleep 1
-# Create finale package with Productbuild
-pkgbuild --root ./pkgbuild/MX_x64 --identifier com.MXLinux.MX-Linux.pkg --version 1.0 --install-location / ./Package/BUILD-PACKAGE/MX-Linux.pkg
-
+pkgbuild --root "./pkgbuild/MX_x64"  \
+--identifier "com.MXLinux.MX-Linux.pkg"  \
+--version 1.0  \
+--install-location /  \
+"./Package/BUILD-PACKAGE/MX-Linux.pkg"
 echo "`tput setaf 7``tput sgr0``tput bold``tput setaf 10`Done!
 ************************************************"
 echo "`tput setaf 7``tput sgr0``tput bold``tput setaf 10`
 ************************************************
 Create finale package with Productbuild "
-
+Sleep 1
+# Create finale package with Productbuild
 productbuild --distribution "./Distribution.xml"  \
 --package-path "./Package/BUILD-PACKAGE/" \
 --resources "./Resources" \
